@@ -1,4 +1,4 @@
-# EC2 FreeBASE
+# EC2 FreeBSD
 
 ## Differences between FreeBSD/EC2 and FreeBSD
 
