@@ -24,6 +24,9 @@ your own access key and secret key.
 ### Build
 
 ```bash
+# If you're previously generated an image, remove the key files:
+rm keys/*
+
 # Keys to my AWS account
 export AWS_CONFIG_FILE=aws-keys.conf
 
