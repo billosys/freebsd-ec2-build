@@ -1,3 +1,11 @@
+# FreeBSD EC2 Build
+
+This is a git clone of the SVN subdirectory here:
+ * http://svnweb.freebsd.org/base?view=revision&revision=261953
+
+Here are the original instructions on using the code in this repo:
+
+```bash
 # Keys to my AWS account
 export AWS_CONFIG_FILE=aws-keys.conf
 
@@ -23,3 +31,4 @@ export BUILD_REGION="US-W2"
 
 # Publish images
 . s-publish-images
+```
