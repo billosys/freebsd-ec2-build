@@ -3,6 +3,12 @@
 This is a git clone of the SVN subdirectory here:
  * http://svnweb.freebsd.org/base?view=revision&revision=261953
 
+A blog post described some of the history behind this release:
+ * http://www.daemonology.net/freebsd-on-ec2/
+
+
+## Instructions
+
 Here are the original instructions on using the code in this repo:
 
 ```bash
