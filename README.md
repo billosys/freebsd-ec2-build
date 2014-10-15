@@ -6,6 +6,9 @@ This is a git clone of the SVN subdirectory here:
 A blog post described some of the history behind this release:
  * http://www.daemonology.net/freebsd-on-ec2/
 
+These scripts automate building FreeBSD AMIs (by bootstrapping from a previous
+FreeBSD AMI as a build instance).
+
 
 ## Dependencies
 
