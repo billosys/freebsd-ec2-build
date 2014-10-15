@@ -7,9 +7,23 @@ A blog post described some of the history behind this release:
  * http://www.daemonology.net/freebsd-on-ec2/
 
 
+## Dependencies
+
+You will need the following:
+ * AWS CLI (see [setup docs](http://docs.aws.amazon.com/cli/latest/userguide/installing.html#install-bundle-other-os))
+ * AWS EC2 CLI tools (see [setup docs](http://docs.aws.amazon.com/AWSEC2/latest/CommandLineReference/set-up-ec2-cli-linux.html))
+ * AWS AMI tools (see [setup docs](http://docs.aws.amazon.com/AWSEC2/latest/CommandLineReference/set-up-ami-tools.html))
+
 ## Instructions
 
-Here are the original instructions on using the code in this repo:
+
+### Configuration
+
+Copy ``aws-keys.conf.sample`` to ``aws-keys.conf`` and update its contents with
+your own access key and secret key.
+
+
+### Build
 
 ```bash
 # Keys to my AWS account
