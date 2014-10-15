@@ -11,11 +11,9 @@ A blog post described some of the history behind this release:
 
 You will need the following:
  * AWS CLI (see [setup docs](http://docs.aws.amazon.com/cli/latest/userguide/installing.html#install-bundle-other-os))
- * AWS EC2 CLI tools (see [setup docs](http://docs.aws.amazon.com/AWSEC2/latest/CommandLineReference/set-up-ec2-cli-linux.html))
- * AWS AMI tools (see [setup docs](http://docs.aws.amazon.com/AWSEC2/latest/CommandLineReference/set-up-ami-tools.html))
+
 
 ## Instructions
-
 
 ### Configuration
 
